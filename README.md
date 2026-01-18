@@ -7,6 +7,7 @@
 3) Создан и протестирован скрипт развертывания
 ![alt text](images/1.png)
 
+
 4) Проверены результаты работы
 ![alt text](images/2.png)
 ![alt text](images/3.png)
